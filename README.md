@@ -1,1 +1,1 @@
-dhfdhkhj
+cout >> "hello";
